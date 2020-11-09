@@ -1,0 +1,5 @@
+best distance from surfacr to pc board is 9 mm, which offer largest range between reflections. (Use black tape from 347 company)
+Hight Margin: > 550
+Low Margin: < 130
+or Hi-Low margin > 420
+average hi 900, low 200, set margent at 550
